@@ -23,9 +23,9 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : VARSHA A
+Developed by : REVANTH.P
 
-Register Number : 212223220121
+Register Number : 212223040143
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ~~~
@@ -50,7 +50,8 @@ int main(void)
 ~~~
 
 ## OUTPUT
-![322059149-fc4a585f-bf4c-46e2-8b28-bf0834b838b5](https://github.com/04Varsha/Linux-Process-API-fork-wait-exec/assets/149035374/277a5ef9-b0c2-4e5b-ad59-4a415db2c31c)
+![Screenshot 2024-10-17 185838](https://github.com/user-attachments/assets/5532ca95-e226-47d9-b079-179f6040263a)
+
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ~~~
@@ -72,7 +73,8 @@ exit(0);}
 
 ## OUTPUT
 
-![322059342-77e05b6f-d0c2-43ee-be5c-16bd0e20cd63](https://github.com/04Varsha/Linux-Process-API-fork-wait-exec/assets/149035374/88cf0f5e-c8fc-4341-b71a-c87c6979fdf1)
+![Screenshot 2024-10-17 185911](https://github.com/user-attachments/assets/c7d9ef84-a3de-42c4-b9f1-4d4ed6b909a8)
+
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ~~~
@@ -90,7 +92,9 @@ int main()
 
 ## OUTPUT
 
-![322059755-ef1d3f60-fadd-482f-86ea-bbf59756cf8b](https://github.com/04Varsha/Linux-Process-API-fork-wait-exec/assets/149035374/1842c773-69d6-4a4d-9e90-fd5f92813952)
+![Screenshot 2024-10-17 185956](https://github.com/user-attachments/assets/844e2707-e79a-4e30-b493-80f0eb2a9d28)
+
 
 # RESULT:
 The programs are executed successfully.
+
